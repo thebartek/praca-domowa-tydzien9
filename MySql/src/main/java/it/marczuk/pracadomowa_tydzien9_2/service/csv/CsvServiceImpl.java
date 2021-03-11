@@ -15,7 +15,7 @@ import java.util.List;
 @Service
 public class CsvServiceImpl implements CsvService {
 
-    private static final String DATA_PATH = "C:/Projects/KursSpringBoot2/pracadomowa_tydzien9/src/main/resources/static/MOCK_DATA.csv";
+    private static final String DATA_PATH = "./src/main/resources/static/MOCK_DATA.csv";
 
     @Override
     public List<User> readCsvUser() {
