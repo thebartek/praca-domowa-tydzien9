@@ -7,4 +7,4 @@ Stwórz aspekt, który będzie nasłuchiwać metodę i w momencie startu włącz
 Zrób do samo dla operacji wczytywania danych z bazy danych (bez wyświetlania ich, bo to może spowodować przekłamanie wyniku). Odnotuj wynik odczytu.<br>
 Zrealizuj to dla relacyjnej bazy danych i nierelacyjnej bazy danych. Porównaj wyniki, napisz wnioski, podziel się nimi na grupie – zobaczymy komu co udało się osiągnąć?<br>
 
-![alt text](https://cdn.discordapp.com/attachments/806171821669744711/819970371842211840/time.PNG)
+<img src="https://cdn.discordapp.com/attachments/806171821669744711/819970371842211840/time.PNG"/>
